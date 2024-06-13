@@ -1,3 +1,5 @@
+// Made by: Ian Perez Bunuel, 13/06/2024
+
 #pragma once
 
 #include <SFML/Graphics.hpp>
